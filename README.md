@@ -1,6 +1,6 @@
 # Mixed Message
 
-=================
+---
 
 ## Description
 
